@@ -1,0 +1,29 @@
+.heading th
+{
+    font-size: 20px;
+    padding: 5px;
+    background: rgba(250, 162, 250, 0.584);
+}
+
+.total th
+{
+    font-size: 19px;
+    padding: 5px;
+    background: rgba(113, 113, 113, 0.584);
+}
+
+.price
+{
+    text-align: center;
+    padding: 4px;
+}
+
+table tr td
+{
+    padding: 8px;
+}
+
+.signup
+{
+    width:600px;
+}
